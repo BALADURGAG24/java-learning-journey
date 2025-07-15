@@ -15,7 +15,7 @@ java-learning-journey is a complete, project-driven Java learning repository. Co
 - **Math Class** – Built-in math methods   
 - **printf** – Formatted output  
 - **Loops (while, for, nested)** – Repeating tasks  
-- **Break & Continue** – Controlling loop execution  
+- **Break & Continue** – Controlling loop execution   
 - **Methods & Overloaded Methods** – Creating reusable code blocks  
 - **Variable Scope** – Local vs. global scope  
 - **Arrays & 2D Arrays** – Storing multiple values  
