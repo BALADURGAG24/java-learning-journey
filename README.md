@@ -4,7 +4,7 @@ java-learning-journey is a complete, project-driven Java learning repository. Co
 ## 🧠 Topics Covered
 
 - **Introduction to Java** – Basic setup and how Java works  
-- **Variables** – Declaring and using variables   
+- **Variables** – Declaring and using variables    
 - **User Input** – Taking input from the user via `Scanner`    
 - **Arithmetic Operations** – Basic math operations     
 - **If Statements & Nested If** – Making decisions in code   
