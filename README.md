@@ -17,7 +17,7 @@ java-learning-journey is a complete, project-driven Java learning repository. Co
 - **Loops (while, for, nested)** – Repeating tasks     
 - **Break & Continue** – Controlling loop execution    
 - **Methods & Overloaded Methods** – Creating reusable code blocks  
-- **Variable Scope** – Local vs. global scope  
+- **Variable Scope** – Local vs. global scope   
 - **Arrays & 2D Arrays** – Storing multiple values  
 - **Array Input & Search** – Entering and finding elements  
 - **Varargs** – Passing variable-length arguments  
