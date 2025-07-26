@@ -13,7 +13,7 @@ java-learning-journey is a complete, project-driven Java learning repository. Co
 - **Logical Operators** – `&&`, `||`, and `!`  
 - **Random Numbers** – Generate random values    
 - **Math Class** – Built-in math methods   
-- **printf** – Formatted output    
+- **printf** – Formatted output     
 - **Loops (while, for, nested)** – Repeating tasks      
 - **Break & Continue** – Controlling loop execution    
 - **Methods & Overloaded Methods** – Creating reusable code blocks  
