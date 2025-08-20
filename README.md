@@ -9,7 +9,7 @@ java-learning-journey is a complete, project-driven Java learning repository. Co
 - **Arithmetic Operations** – Basic math operations      
 - **If Statements & Nested If** – Making decisions in code        
 - **Switch & Enhanced Switches** – Multi-way branching      
-- **Ternary Operator** – Compact if-else      
+- **Ternary Operator** – Compact if-else       
 - **Logical Operators** – `&&`, `||`, and `!`           
 - **Random Numbers** – Generate random values       
 - **Math Class** – Built-in math methods        
