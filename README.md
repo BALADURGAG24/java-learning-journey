@@ -7,7 +7,7 @@ java-learning-journey is a complete, project-driven Java learning repository. Co
 - **Variables** – Declaring and using variables     
 - **User Input** – Taking input from the user via `Scanner`        
 - **Arithmetic Operations** – Basic math operations      
-- **If Statements & Nested If** – Making decisions in code       
+- **If Statements & Nested If** – Making decisions in code        
 - **Switch & Enhanced Switches** – Multi-way branching      
 - **Ternary Operator** – Compact if-else      
 - **Logical Operators** – `&&`, `||`, and `!`           
