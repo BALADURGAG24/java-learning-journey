@@ -65,3 +65,200 @@ java-learning-journey is a complete, project-driven Java learning repository. Co
 - **Hangman Game 🕺** – Guess the word game  
 - **Countdown Timer ⏳** – Counts down from a set time  
 - **Alarm Clock ⏰** – Set alarms with sound or message  
+
+## Project Strcture
+```
+Directory structure:
+└── baladurgag24-java-learning-journey/
+    ├── README.md
+    ├── LICENSE
+    ├── MyFirstProject.iml
+    ├── test.txt
+    ├── words.txt
+    └── src/
+        ├── AnonymousClass/
+        │   ├── AnonymousClass.java
+        │   ├── Dog.java
+        │   └── TalkingDog.java
+        ├── ArrayLists/
+        │   └── ArrayLists.java
+        ├── Arrays/
+        │   ├── ArraysIntro.java
+        │   ├── InputArrays.java
+        │   ├── SearchItemInAnArray.java
+        │   ├── TelephoneNumberPad.java
+        │   ├── TwoDArrays.java
+        │   └── VariableArgs.java
+        ├── ConditionalStatement/
+        │   ├── EnhancedSwitchWeekday.java
+        │   ├── IfStatement.java
+        │   ├── IfWeekday.java
+        │   ├── NestedIf.java
+        │   └── SwitchWeekday.java
+        ├── ControlFlowStatements/
+        │   ├── BreakandContinue.java
+        │   ├── DoWhileLoops.java
+        │   ├── ForLoops.java
+        │   ├── NestedLoops.java
+        │   └── WhileLoops.java
+        ├── DataType/
+        │   ├── RandomNumbers.java
+        │   ├── ShoppingCart2.java
+        │   ├── Student.java
+        │   └── StudentDetail.java
+        ├── DateTimeFormatters/
+        │   └── DateTimeFormatters.java
+        ├── Enumss/
+        │   ├── Day.java
+        │   └── Enums.java
+        ├── Exceptions/
+        │   └── Exceptions.java
+        ├── Files/
+        │   ├── ReadFiles/
+        │   │   └── ReadFiles.java
+        │   └── WriteFiles/
+        │       └── WriteFiles.java
+        ├── Generics/
+        │   ├── Box.java
+        │   ├── Genericss.java
+        │   └── Product.java
+        ├── HashMaps/
+        │   └── HashMaps.java
+        ├── JavaMiniProject/
+        │   ├── BankingProgram.java
+        │   ├── CalculatorProgram.java
+        │   ├── CompoundInterestCalculator.java
+        │   ├── CountDownTimer.java
+        │   ├── CountDownTimer2.java
+        │   ├── DiceRollerProgram.java
+        │   ├── MadLibsGame.java
+        │   ├── MatrixBuilder.java
+        │   ├── NumberGuessingGame.java
+        │   ├── QuizGame.java
+        │   ├── RockPaperScissors.java
+        │   ├── ShoppingCartProgram.java
+        │   ├── SlotMachine.java
+        │   ├── TemperatureConverter.java
+        │   ├── WeightConverter.java
+        │   ├── AlarmClock/
+        │   │   ├── AlarmClock.java
+        │   │   └── Main.java
+        │   ├── HangManGame/
+        │   │   ├── HangManGame.java
+        │   │   └── HangManGameFile.java
+        │   └── MusicPlayer/
+        │       └── MusicPlayer.java
+        ├── Math/
+        │   ├── AreaofaRectangle.java
+        │   ├── Circumference.java
+        │   ├── HypotenuseSqrt.java
+        │   ├── MathValue.java
+        │   └── OrderofOperations.java
+        ├── Method/
+        │   ├── LocalClassVariable.java
+        │   ├── Method.java
+        │   └── OverLoadMethods.java
+        ├── Oops/
+        │   ├── Abstraction/
+        │   │   ├── Abstraction.java
+        │   │   ├── Circle.java
+        │   │   ├── Rectangle.java
+        │   │   ├── Shape.java
+        │   │   └── Triangle.java
+        │   ├── Aggregation/
+        │   │   ├── Aggregation.java
+        │   │   ├── Book.java
+        │   │   └── Library.java
+        │   ├── ArraysofObjects/
+        │   │   ├── ArraysofObjects.java
+        │   │   └── Car.java
+        │   ├── Composition/
+        │   │   ├── Car.java
+        │   │   ├── Composition.java
+        │   │   └── Engine.java
+        │   ├── Constructor/
+        │   │   ├── Constructor.java
+        │   │   └── Student.java
+        │   ├── GetterSetter/
+        │   │   ├── Car.java
+        │   │   └── GetterSetter.java
+        │   ├── Inheritance/
+        │   │   ├── Animal.java
+        │   │   ├── Cat.java
+        │   │   ├── Dog.java
+        │   │   ├── Inheritance.java
+        │   │   ├── Organism.java
+        │   │   └── Plant.java
+        │   ├── Interface/
+        │   │   ├── Fish.java
+        │   │   ├── Hawk.java
+        │   │   ├── Interface.java
+        │   │   ├── Predator.java
+        │   │   ├── Prey.java
+        │   │   └── Rabbit.java
+        │   ├── MethodOverRiding/
+        │   │   ├── Animal.java
+        │   │   ├── Cat.java
+        │   │   ├── Dog.java
+        │   │   ├── Fish.java
+        │   │   └── MethodOverRiding.java
+        │   ├── Object/
+        │   │   ├── Car.java
+        │   │   └── Object.java
+        │   ├── OverLoadedConstructor/
+        │   │   ├── OverLoadedConstructor.java
+        │   │   └── User.java
+        │   ├── Polymorphism/
+        │   │   ├── Polymorphism1/
+        │   │   │   ├── Bike.java
+        │   │   │   ├── Boat.java
+        │   │   │   ├── Car.java
+        │   │   │   ├── Polymorphism.java
+        │   │   │   └── Vehicle.java
+        │   │   └── Polymorphism2/
+        │   │       ├── Bike.java
+        │   │       ├── Boat.java
+        │   │       ├── Car.java
+        │   │       ├── Polymorphism.java
+        │   │       └── Vehicle.java
+        │   ├── RuntimePolymorphism/
+        │   │   ├── Animal.java
+        │   │   ├── Cat.java
+        │   │   ├── Dog.java
+        │   │   └── RuntimePolymorphism.java
+        │   ├── StaticKeyWord/
+        │   │   ├── Friend.java
+        │   │   └── StaticKeyWord.java
+        │   ├── Super/
+        │   │   ├── Employee.java
+        │   │   ├── Person.java
+        │   │   ├── Student.java
+        │   │   └── Super.java
+        │   ├── ToString/
+        │   │   ├── Car.java
+        │   │   └── ToString.java
+        │   └── WrapperClasses/
+        │       └── WrapperClasses.java
+        ├── Operators/
+        │   ├── ArithmeticOperator.java
+        │   ├── AugmentedAssignmentOperator.java
+        │   ├── IncrementandDecrementOperator.java
+        │   ├── logicaloperator.java
+        │   └── TernaryOperator.java
+        ├── Printf/
+        │   ├── Precision.java
+        │   ├── Printf.java
+        │   └── Width.java
+        ├── String/
+        │   ├── ProgramString.java
+        │   └── SubString.java
+        └── Threadings/
+            ├── MultiThreading/
+            │   ├── MultiThreading.java
+            │   └── MyRunnable.java
+            ├── Threading/
+            │   ├── MyRunnable.java
+            │   └── Threading.java
+            └── TimerTasks/
+                └── TimerTasks.java
+```
